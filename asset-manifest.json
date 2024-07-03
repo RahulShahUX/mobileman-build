@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.dcfdb840.css",
-    "main.js": "/static/js/main.b856ae5e.js",
-    "static/js/453.8ab44547.chunk.js": "/static/js/453.8ab44547.chunk.js",
-    "static/media/bootstrap-icons.woff?": "/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
-    "static/media/bootstrap-icons.woff2?": "/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
-    "index.html": "/index.html",
-    "main.dcfdb840.css.map": "/static/css/main.dcfdb840.css.map",
-    "main.b856ae5e.js.map": "/static/js/main.b856ae5e.js.map",
-    "453.8ab44547.chunk.js.map": "/static/js/453.8ab44547.chunk.js.map"
+    "main.css": "/mobileman-build/static/css/main.1df1602d.css",
+    "main.js": "/mobileman-build/static/js/main.cafe0e14.js",
+    "static/js/453.8ab44547.chunk.js": "/mobileman-build/static/js/453.8ab44547.chunk.js",
+    "static/media/bootstrap-icons.woff?": "/mobileman-build/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
+    "static/media/bootstrap-icons.woff2?": "/mobileman-build/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
+    "index.html": "/mobileman-build/index.html",
+    "main.1df1602d.css.map": "/mobileman-build/static/css/main.1df1602d.css.map",
+    "main.cafe0e14.js.map": "/mobileman-build/static/js/main.cafe0e14.js.map",
+    "453.8ab44547.chunk.js.map": "/mobileman-build/static/js/453.8ab44547.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.dcfdb840.css",
-    "static/js/main.b856ae5e.js"
+    "static/css/main.1df1602d.css",
+    "static/js/main.cafe0e14.js"
   ]
 }
